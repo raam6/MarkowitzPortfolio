@@ -15,7 +15,7 @@ $$	E(R_p) = ( \sum_{i}w_i*E(R_i)) $$
 &sigma;_p^2 = ( \sum_{i})(\sum_{j})w_i*w_j*&sigma;_j*&phi;_j
 
 ## Version 1
-A four stock Portfolio, NVDA, TSLA, NFLX, GOOG
+> A four stock Portfolio, NVDA, TSLA, NFLX, GOOG
 <img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png" width="500">
 
 > Sharpe Ratio
@@ -23,5 +23,7 @@ A four stock Portfolio, NVDA, TSLA, NFLX, GOOG
 
 ## Version 2
 9 Stock Portfolio
+> Correlation
 <img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v2.png" width="500">
+> Sharpe Ratio
 <img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_v2.png" width="500">
