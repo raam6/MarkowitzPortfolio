@@ -16,13 +16,12 @@ $$	E(R_p) = ( \sum_{i}w_i*E(R_i)) $$
 
 ## Version 1
 A four stock Portfolio, NVDA, TSLA, NFLX, GOOG
-<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png" width="48">
-![V1](https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png | width=100)
+<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png" width="250">
 
 > Sharpe Ratio
-![V1_S](https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_V1.png | width=100)
+<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_V1.png" width="250">
 
 ## Version 2
 9 Stock Portfolio
-![V2](https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v2.png | width=100)
-![V2_S](https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_v2.png | width=100)
+<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v2.png" width="250">
+<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_v2.png" width="250">
