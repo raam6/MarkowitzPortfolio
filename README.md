@@ -25,5 +25,6 @@ $$	E(R_p) = ( \sum_{i}w_i*E(R_i)) $$
 9 Stock Portfolio
 > Correlation
 <img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v2.png" width="500">
+
 > Sharpe Ratio
 <img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/Sharpe_v2.png" width="500">
