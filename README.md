@@ -16,6 +16,7 @@ $$	E(R_p) = ( \sum_{i}w_i*E(R_i)) $$
 
 ## Version 1
 A four stock Portfolio, NVDA, TSLA, NFLX, GOOG
+<img src="https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png" width="48">
 ![V1](https://github.com/raam6/MarkowitzPortfolio/blob/main/Resource/correlation_v1.png | width=100)
 
 > Sharpe Ratio
